@@ -25,3 +25,4 @@ This tool was originally developed for comparative genomics and transmission stu
 
 ```bash
 pip install git+https://github.com/EtienneNtumba/mtbmasker.git
+# mtbmasker

@@ -2,7 +2,7 @@
 
 ## 👥 Authors
 
-- **Etienne Ntumba Kabongo** — Université de Montréal / McGill University
+- **Etienne Ntumba Kabongo** — Université de Montréal 
 - **Dan Whiley** — Nottingham University
 
 **mtbmasker** is a Python command-line tool designed to generate isolate-specific conservative genome masks for *Mycobacterium tuberculosis* (MTB) genomes. This is particularly useful for downstream variant calling and phylogenomic analyses by masking problematic genomic regions (e.g., PE/PPE genes, IS elements, and other repetitive loci).

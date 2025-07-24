@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Jupyter and temp
+.ipynb_checkpoints
+*.bak
+*.tmp
+
+# Build
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# Conda / virtualenv
+.env
+.venv
+*.conda
+*.env
+*.DS_Store
+
+# BLAST and BEDTools outputs
+*_masking.n*
+*.bed
+*.tsv
+*.blast
+*_out_*
+*_filtered_*.tsv
+
+# Others
+*.fai
+*.fa
+*.fasta.*

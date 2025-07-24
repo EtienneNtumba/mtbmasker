@@ -3,7 +3,7 @@ packages = ["mtbmasker"]
 
 [project]
 name = "mtbmasker"
-version = "0.1.0"
+version = "0.1.2"
 description = "Generate isolate-specific genome masks for Mycobacterium tuberculosis"
 authors = [
     { name="Etienne Ntumba Kabongo", email="etienne.ntumba.kabongo@umontreal.ca" },

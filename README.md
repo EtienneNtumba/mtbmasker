@@ -2,7 +2,7 @@
 
 ## 👥 Authors
 
-- **Etienne Ntumba Kabongo** — Université de Montréal / McGill University
+- **Etienne Ntumba Kabongo** — Université de Montréal 
 - **Dan Whiley** — Nottingham Trent University
 
 ----------------------------------
@@ -130,5 +130,5 @@ This tool is licensed under the MIT License.
 
 ## 👥 Authors
 
-- **Etienne Ntumba Kabongo** — Université de Montréal / McGill University
-- **Dan Whiley** — Nottingham University
+- **Etienne Ntumba Kabongo** — Université de Montréal 
+- **Dan Whiley** — Nottingham Trent University
